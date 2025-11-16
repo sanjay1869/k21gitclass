@@ -1,0 +1,3 @@
+1. Learn Git
+2. Learn GitHub
+3. Check Status
