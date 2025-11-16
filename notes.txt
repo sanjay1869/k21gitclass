@@ -1,0 +1,3 @@
+Welcome to Git Workshot!
+This is my first Git Project.
+
