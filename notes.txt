@@ -1,3 +1,4 @@
 Welcome to Git Workshot!
 This is my first Git Project.
 Git tracks changes over time.
+Branches allow isolated development.
