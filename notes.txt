@@ -1,4 +1,4 @@
 Welcome to Git Workshot!
 This is my first Git Project.
-Git tracks changes over time.
+Git is distributed version control system.
 Branches allow isolated development.
